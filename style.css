@@ -1,0 +1,45 @@
+.grid-box{
+    display: grid;
+    grid-template-columns: 15fr 85fr;
+    grid-template-rows: 20vh 66vh 20vh;
+    gap: 10px;
+}
+
+h1{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    margin-top: 0px;
+}
+#t-rex{
+    width: 130px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+nav{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.artikel{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+h3{
+    text-align: center;
+}
+#innehåll{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#mail{
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 15px;
+}
